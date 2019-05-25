@@ -58,9 +58,9 @@
                     </div>
                     <div class="col-md-4">
                         <h4>Have Questions?</h4>
-                        <h4><a href="tel:+2348038114714" class="text-color">+234 (0)803 8114 714</a></h4>
+                        <h4><a href="tel:+2349030009784" class="text-color">+234 (0)903 000 9784</a></h4>
                         <h4><a href="mailto:travel@naijatravelshop.com" class="text-color">travel@naijatravelshop.com</a></h4>
-                        <p>24/7 Dedicated Customer Support</p>
+                        <p>Shop 17, Festival Mall, Amuwo Odofin, Lagos. </p>
                     </div>
 
                 </div>

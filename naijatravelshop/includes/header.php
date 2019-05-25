@@ -46,8 +46,11 @@
                             <a class="logo" href="/">
                                 <img src="images/logo.jpg" />
                             </a>
+                            <ul class="tr-menu">
+                                <li><a href="tel:+2349030009784"><i class="fa fa-phone-square"></i> +234 (0)903 000 9784</a></li>
+                                <li><a href="mailto:travel@naijatravelshop.com"><i class="fa fa-envelope"></i> travel@naijatravelshop.com</a></li>
+                            </ul>
                         </div>
-
                         <div class="col-md-4">
                             <div class="top-user-area clearfix">
                                 <ul class="top-user-area-list list list-horizontal list-border">
